@@ -10,7 +10,7 @@ Frontend Developer
 
 ### Skills  
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,sass,bootstrap,react,redux,webpack,git,jest,jquery,jquery,figma,sqlite,postgres&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,sass,bootstrap,react,redux,webpack,git,jest,jquery,figma,sqlite,postgres,bash,bots,express,pug&perline=6)](https://skillicons.dev)
 
 
 ### Badges
