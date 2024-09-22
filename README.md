@@ -1,6 +1,6 @@
 Hi 👋 My name is Svetlana 
 =======================  
-Frontend Developer 
+Fullstack node.js Developer 
 ------------------
 
 
